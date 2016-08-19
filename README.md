@@ -1,2 +1,2 @@
-# PforDrones
-Repository for drone software stack implemented in P
+# P4Robotics
+Repository for robotic software stack implemented in P
